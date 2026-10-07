@@ -2,7 +2,7 @@
 
 Este repositório contém o código-fonte da **Landing Page comercial** do AvaliaNFC, uma plataforma SaaS Multi-Tenant inovadora projetada para comércios locais (restaurantes, clínicas, varejo) otimizarem sua reputação digital e gestão de equipes através de cartões físicos com chip NFC.
 
-🔗 **Acesse o projeto publicado aqui:** [https://netlify.app](https://netlify.app)
+🔗 **Acesse o projeto publicado aqui:** [https://avalianfc.netlify.app/)
 
 ---
 
